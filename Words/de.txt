@@ -1,4 +1,8 @@
 apfel
+apfelbaum
+apfelbäume
 apfelsine
 apfelsinen
+baum
+bäume
 äpfel
