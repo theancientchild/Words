@@ -7,6 +7,9 @@ apfelsine
 apfelsinen
 baum
 bäume
+das
+der
+die
 heft
 hefte
 äpfel
